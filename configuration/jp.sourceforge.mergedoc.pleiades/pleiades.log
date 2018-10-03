@@ -1,0 +1,20 @@
+INFO  14:11:17.240 [main] (Pleiades) Pleiades キャッシュ保管パス: C:\ecl\pleiades\eclipse\configuration\jp.sourceforge.mergedoc.pleiades
+INFO  14:11:17.240 [main] (Pleiades) Eclipse AOP 起動トランスフォーマーを開始します。Pleiades 起動オプション:null
+INFO  14:11:17.310 [main] (PleiadesConfig) Pleiades 構成ファイルをロードしました。pleiades-config.xml
+INFO  14:11:17.311 [pool-1-thread-4] (PropertySet) load  0.000 秒 -      6 エントリー org.eclipse.ui.ide.prefs
+INFO  14:11:17.312 [pool-1-thread-2] (PropertySet) load  0.001 秒 -     69 エントリー translation-exclude-package.properties
+INFO  14:11:17.324 [pool-1-thread-2] (PropertySet) load  0.007 秒 -    475 エントリー translation-regex.properties
+INFO  14:11:17.346 [pool-2-thread-1] (Applications) ファイル更新最終時刻 (前回): 2017-07-19 02:53:43
+INFO  14:11:17.346 [pool-2-thread-1] (Applications) ファイル更新最終時刻 (今回): 2017-07-19 02:53:43
+INFO  14:11:17.348 [pool-1-thread-2] (PropertySet) load  0.001 秒 -     16 エントリー translation-regex-through.properties
+INFO  14:11:17.390 [main] (LauncherEclipseTransformer) transform: org.eclipse.equinox.launcher.Main
+INFO  14:11:17.463 [main] (LauncherTransformer) アプリケーションの起動を開始しました。-clean:false
+INFO  14:11:17.463 [main] (LauncherTransformer) Pleiades AOP 起動トランスフォーマーを停止します。
+INFO  14:11:17.470 [main] (LauncherTransformer) Pleiades AOP 翻訳トランスフォーマーを開始します。
+INFO  14:11:17.507 [pool-1-thread-2] (ExcludeClassNameCache) load   21453 エントリー exclude-class.list
+INFO  14:11:17.619 [pool-1-thread-2] (TransformedClassCache) load     893 エントリー transformed-class.cache
+INFO  14:11:17.726 [pool-1-thread-2] (ValueHashPropertySet) load  0.104 秒 -  28285 エントリー translation-cache.properties.zip
+INFO  14:11:17.732 [pool-1-thread-2] (CachePropertySet) load  0.006 秒 -   2744 エントリー mnemonic-cache.properties.zip
+INFO  14:11:19.172 [main] (AbstractTranslationDictionary$1) load  0.263 秒 - 132956 エントリー translation.properties
+INFO  14:11:19.173 [main] (PropertySet) load  0.001 秒 -    264 エントリー translation-first.properties
+INFO  14:11:34.404 [main] (Analyses) Eclipse 始動完了 - 始動時間: 16.784 秒。-clean:false
